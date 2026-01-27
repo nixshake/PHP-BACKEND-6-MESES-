@@ -1,0 +1,213 @@
+🟡 SEMANA 2 — 50 EXERCÍCIOS DE PHP
+🔹 PARTE 1 — Variáveis e Tipos de Dados (1–10)
+1️⃣
+
+Crie duas variáveis: nome e idade. Exiba uma frase completa com elas.
+
+2️⃣
+
+Crie uma variável preco (float) e exiba o valor formatado.
+
+3️⃣
+
+Crie uma variável booleana ativo e exiba seu estado em texto.
+
+4️⃣
+
+Crie três variáveis com tipos diferentes e use var_dump() nelas.
+
+5️⃣
+
+Crie uma variável e altere seu tipo no meio do código. Exiba antes e depois.
+
+6️⃣
+
+Crie uma variável string contendo um número e outra numérica. Exiba as duas.
+
+7️⃣
+
+Crie uma variável vazia e atribua um valor depois.
+
+8️⃣
+
+Crie uma variável que represente se um usuário é administrador (boolean).
+
+9️⃣
+
+Crie uma variável com seu salário e outra com um bônus. Exiba o total.
+
+🔟
+
+Crie variáveis para produto, preço e quantidade e exiba tudo formatado.
+
+🔹 PARTE 2 — Operadores Aritméticos (11–20)
+1️⃣1️⃣
+
+Crie duas variáveis numéricas e exiba:
+
+soma
+
+subtração
+
+multiplicação
+
+divisão
+
+1️⃣2️⃣
+
+Calcule a média de três notas.
+
+1️⃣3️⃣
+
+Crie uma variável e incremente seu valor em 1.
+
+1️⃣4️⃣
+
+Crie uma variável e diminua seu valor em 1.
+
+1️⃣5️⃣
+
+Calcule o valor total de uma compra (preço × quantidade).
+
+1️⃣6️⃣
+
+Calcule o resto da divisão entre dois números.
+
+1️⃣7️⃣
+
+Converta metros para centímetros.
+
+1️⃣8️⃣
+
+Converta horas em minutos.
+
+1️⃣9️⃣
+
+Calcule um desconto de 10% sobre um valor.
+
+2️⃣0️⃣
+
+Calcule o valor final de um produto com imposto.
+
+🔹 PARTE 3 — Operadores de Comparação (21–30)
+2️⃣1️⃣
+
+Compare dois números e exiba se são iguais.
+
+2️⃣2️⃣
+
+Compare dois números e exiba qual é maior.
+
+2️⃣3️⃣
+
+Verifique se um número é maior que 10.
+
+2️⃣4️⃣
+
+Verifique se um número é menor ou igual a outro.
+
+2️⃣5️⃣
+
+Compare duas strings.
+
+2️⃣6️⃣
+
+Verifique se a idade de uma pessoa é maior ou igual a 18.
+
+2️⃣7️⃣
+
+Verifique se um valor é diferente de outro.
+
+2️⃣8️⃣
+
+Compare um número inteiro com uma string numérica.
+
+2️⃣9️⃣
+
+Verifique se dois valores são idênticos (===).
+
+3️⃣0️⃣
+
+Crie uma comparação que retorne falso.
+
+🔹 PARTE 4 — Operadores Lógicos (31–40)
+3️⃣1️⃣
+
+Verifique se uma pessoa é maior de idade e tem carteira de motorista.
+
+3️⃣2️⃣
+
+Verifique se um usuário é admin ou moderador.
+
+3️⃣3️⃣
+
+Use o operador ! para inverter um boolean.
+
+3️⃣4️⃣
+
+Verifique se um número está entre 10 e 20.
+
+3️⃣5️⃣
+
+Verifique se um usuário está logado e ativo.
+
+3️⃣6️⃣
+
+Crie uma condição que falhe por causa do operador lógico.
+
+3️⃣7️⃣
+
+Simule um acesso negado por falta de permissão.
+
+3️⃣8️⃣
+
+Use mais de um operador lógico na mesma condição.
+
+3️⃣9️⃣
+
+Crie uma condição verdadeira usando &&.
+
+4️⃣0️⃣
+
+Crie uma condição verdadeira usando ||.
+
+🔹 PARTE 5 — Estruturas Condicionais (41–50)
+4️⃣1️⃣
+
+Crie um if que exiba uma mensagem se um número for positivo.
+
+4️⃣2️⃣
+
+Crie um if/else que verifique se um número é par ou ímpar.
+
+4️⃣3️⃣
+
+Verifique se uma pessoa pode dirigir (idade ≥ 18).
+
+4️⃣4️⃣
+
+Crie um sistema simples de aprovação de aluno.
+
+4️⃣5️⃣
+
+Use elseif para classificar uma nota (ruim, média, boa).
+
+4️⃣6️⃣
+
+Verifique se um usuário está logado. Caso não, exiba erro.
+
+4️⃣7️⃣
+
+Use switch para exibir o dia da semana.
+
+4️⃣8️⃣
+
+Use switch para exibir o nome de um plano (basic, pro, premium).
+
+4️⃣9️⃣
+
+Crie uma condicional que exiba mensagens diferentes para admin e usuário comum.
+
+5️⃣0️⃣
+
+Desafio: simule um sistema de login simples com if/else.
